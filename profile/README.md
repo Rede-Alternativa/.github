@@ -6,7 +6,7 @@ A Alternativa é uma intermediadora b2b que atua como administradora para trabal
 
 | Infos | Links |
 | ------ | ------ |
-| Site Principal | [https://redealternativa.com/desenvolvimento](https://redealternativa.com]([https://redealternativa.com/desenvolvimento](https://redealternativa.com) |
+| Site Principal | [https://redealternativa.com/desenvolvimento](https://redealternativa.com/desenvolvimento](https://redealternativa.com) |
 
 ## Seção 1
 
