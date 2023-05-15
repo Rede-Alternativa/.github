@@ -1,12 +1,10 @@
-# Título do Projeto
-
 ![Imagem](https://redealternativa.com/img/logo/logo.png)
 
-Descrição curta do projeto.
+A Alternativa é uma intermediadora b2b que atua como administradora para trabalhos em grupo no varejo de materiais de construção.
 
-## Tabela de Conteúdo
+## Nossos Projetos
 
-1. [Seção 1](#seção-1)
+1. [Site Principal](https://redealternativa.com)
 2. [Seção 2](#seção-2)
 3. [Seção 3](#seção-3)
 
