@@ -7,5 +7,6 @@ A Alternativa é uma intermediadora b2b que atua como administradora para trabal
 | Infos | Links |
 | ------ | ------ |
 | Site Principal | [https://redealternativa.com](https://redealternativa.com) |
+| App | [https://app.redealternativa.com](https://app.redealternativa.com) |
 | Loja | [https://redealternativastore.com.br](https://redealternativa.com) |
 | Blog | [https://blog.redealternativa.com.br](https://blog.redealternativa.com) |
